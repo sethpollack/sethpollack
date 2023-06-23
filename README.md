@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im Seth Pollack, a Full Stack Engineer / DevOps.
+I'm Seth Pollack, a Full Stack Engineer / DevOps.
 
 🔭 I’m currently hacking on Golang & Kubernetes @ [ZillowGroup](https://github.com/ZillowGroup)
 
