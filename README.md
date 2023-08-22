@@ -34,4 +34,4 @@ I'm Seth Pollack, a Full Stack / DevOps Engineer.
 
 **Learning:**
 
-<code><img height="40" src="https://avatars.githubusercontent.com/u/14262913?s=48&v=4"></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/u/23617963?s=200&v=4"></code>
