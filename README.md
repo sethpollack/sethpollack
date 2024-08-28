@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Seth Pollack, a Full Stack / DevOps Engineer.
+I'm Seth Pollack, a Platform Engineer.
 
-🔭 I’m currently hacking on Golang & Kubernetes @ [ZillowGroup](https://github.com/ZillowGroup)
+🔭 I’m currently hacking on Golang & Kubernetes @ [GoodRx](https://github.com/GoodRx)
 
 **Currently working with:**
 
